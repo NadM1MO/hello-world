@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+Just repository
 
 Test your Internet connection bandwidth to locations around the world 
 with this interactive broadband speed test from Ookla.
